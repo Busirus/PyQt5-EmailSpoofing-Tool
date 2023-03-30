@@ -50,3 +50,6 @@ python main.py
 3. Type or paste the message in the message box, or import an HTML template by clicking the "Import Template" button and selecting a file.
 4. If you want to attach files, click the "Attach File" button and select the files you want to attach. To remove attached files, select the file and click the "Remove Attached File" button.
 5. Click the "Send Email" button to send the spoofed email with the provided information and attachments.
+
+# License
+This project is released under the MIT License. Please refer to the LICENSE file for more information.
